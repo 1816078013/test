@@ -1,1 +1,7 @@
-nihao11111111
+<<<<<<< HEAD
+nihao11111111222
+333344444444
+=======
+nihao
+yicixiugai
+>>>>>>> yicixg
